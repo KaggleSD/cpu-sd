@@ -3,4 +3,4 @@ libgl1
 libglib2.0-0
 git-lfs
 nginx
-python3.10
+Python3.10
